@@ -1,4 +1,4 @@
-package com.nocholla.media3.video.player.compose.ui.ui.theme
+package com.nocholla.media3.video.player.compose.ui.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

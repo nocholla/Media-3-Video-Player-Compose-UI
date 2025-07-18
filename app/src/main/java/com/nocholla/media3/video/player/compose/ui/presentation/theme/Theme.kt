@@ -1,6 +1,5 @@
-package com.nocholla.media3.video.player.compose.ui.ui.theme
+package com.nocholla.media3.video.player.compose.ui.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
